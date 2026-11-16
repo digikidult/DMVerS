@@ -16,3 +16,5 @@
 .brand>span:last-child{min-width:0;white-space:normal;line-height:1.45}.brand small{letter-spacing:.06em}.brand-icon{flex-shrink:0}@media(max-width:600px){.brand>span:last-child{font-size:.92rem}.brand small{font-size:.65rem}}
 
 .jp-name{font-size:.85rem;color:#647d82;line-height:1.5;margin:4px 0 8px;overflow-wrap:anywhere}
+
+.enemy-detail{min-width:210px;margin-top:8px}.enemy-detail summary{font-size:.85rem}.enemy-stats{grid-template-columns:repeat(2,minmax(0,1fr))}.enemy-stats dd{font-variant-numeric:tabular-nums}
