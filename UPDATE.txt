@@ -1,0 +1,1 @@
+Cumulative guide update including natural evolution cross-check. Replace included files in website root. Original rows remain as labelled reference. Static audit only; not emulator UAT. Not deployed.
