@@ -1,0 +1,1 @@
+All findings integrated. Static verification; not runtime UAT. Preserve user overrides: 4-A Folder Lv2; 5-B repair Lv3; boss name and Friday 17:00-20:00. Upload extracted files to the existing site root. Not deployed.
